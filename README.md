@@ -1,2 +1,2 @@
-# Algorithms-Hackerrank
-Algorithm problems from Hackerrank
+# Algorithms-Practice
+Algorithm practice problems from Hackerrank
